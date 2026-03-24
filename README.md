@@ -7,6 +7,7 @@ Arduino-based automated farm security system for real-time intrusion detection a
 - [Solution](#solution)
 - [Features](#features)
 - [Components Used](#components-used)
+- [Circuit Diagram](#Circuit-Diagram)
 - [Working](#working)
 - [Results](#results)
 - [Future Scope](#future-scope)
@@ -45,6 +46,11 @@ The proposed solution is an automated perimeter security system using Arduino th
 - Battery (for power storage)
 - Connecting Wires
 - Breadboard
+
+  ---
+  ## Circuit Diagram
+
+![Circuit Diagram](circuit-diagram.jpg)
 
   ---
   ## Working
